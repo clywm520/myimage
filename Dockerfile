@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-staging-metrics-server/metrics-server:v0.3.7
+FROM k8s.gcr.io/pause:3.2
